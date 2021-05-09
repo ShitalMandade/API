@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2636" started-at="2021-04-16T17:36:07Z" finished-at="2021-04-16T17:36:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2636" started-at="2021-04-16T17:36:07Z" finished-at="2021-04-16T17:36:10Z">
+      <class name="restassuredpractices.SamplePut">
+        <test-method status="PASS" signature="samplePut()[pri:0, instance:restassuredpractices.SamplePut@653222]" name="samplePut" duration-ms="2605" started-at="2021-04-16T23:06:07Z" finished-at="2021-04-16T23:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samplePut -->
+      </class> <!-- restassuredpractices.SamplePut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
